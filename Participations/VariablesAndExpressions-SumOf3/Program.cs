@@ -36,6 +36,11 @@ if (double.TryParse(response3, out val3) == false)
     //return;
     Environment.Exit(-7);
 }
+
+//  How to use random numbers
+//Random rand = new Random();
+//int val4 = rand.Next(1, 11);
+
 double sum = val1 + val2 + val3;
 Console.WriteLine($"{val1.ToString("N3")} + {val2.ToString("N3")} + {val3.ToString("N3")} = {sum.ToString("N3")} ");
 
