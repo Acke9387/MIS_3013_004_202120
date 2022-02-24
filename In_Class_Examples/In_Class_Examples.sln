@@ -9,7 +9,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Example1-Version5", "Exampl
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Conditional-Example1", "Conditional-Example1\Conditional-Example1.csproj", "{B7BB3923-8C73-4593-B856-19F731BE44D4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Loops-Example3", "Loops-Example3\Loops-Example3.csproj", "{FD44A212-1317-4019-80C0-A65B22C28885}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Loops-Example3", "Loops-Example3\Loops-Example3.csproj", "{FD44A212-1317-4019-80C0-A65B22C28885}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StringManipulation", "StringManipulation\StringManipulation.csproj", "{5FA05F6A-F0C9-4309-BE8C-06D45817DD12}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{FD44A212-1317-4019-80C0-A65B22C28885}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FD44A212-1317-4019-80C0-A65B22C28885}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FD44A212-1317-4019-80C0-A65B22C28885}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5FA05F6A-F0C9-4309-BE8C-06D45817DD12}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5FA05F6A-F0C9-4309-BE8C-06D45817DD12}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5FA05F6A-F0C9-4309-BE8C-06D45817DD12}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5FA05F6A-F0C9-4309-BE8C-06D45817DD12}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
