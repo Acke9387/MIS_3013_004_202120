@@ -19,9 +19,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Collections-Lists", "Collec
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Collections-Dictionaries", "Collections-Dictionaries\Collections-Dictionaries.csproj", "{0D58239E-0DF9-4DD9-9577-CAD124A1EBEB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Functions-Example1", "Functions-Example1\Functions-Example1.csproj", "{81B19C22-B93B-467C-8948-36D3DD38F3E0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Functions-Example1", "Functions-Example1\Functions-Example1.csproj", "{81B19C22-B93B-467C-8948-36D3DD38F3E0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Functions-Example2", "Functions-Example2\Functions-Example2.csproj", "{06BF836F-936C-4A3D-B877-62EAD1A94092}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Functions-Example2", "Functions-Example2\Functions-Example2.csproj", "{06BF836F-936C-4A3D-B877-62EAD1A94092}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MethodsWithParallelArraysButWithClasses", "MethodsWithParallelArraysButWithClasses\MethodsWithParallelArraysButWithClasses.csproj", "{124CEDA9-480C-4F7F-A651-51583A139ADA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -69,6 +71,10 @@ Global
 		{06BF836F-936C-4A3D-B877-62EAD1A94092}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{06BF836F-936C-4A3D-B877-62EAD1A94092}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{06BF836F-936C-4A3D-B877-62EAD1A94092}.Release|Any CPU.Build.0 = Release|Any CPU
+		{124CEDA9-480C-4F7F-A651-51583A139ADA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{124CEDA9-480C-4F7F-A651-51583A139ADA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{124CEDA9-480C-4F7F-A651-51583A139ADA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{124CEDA9-480C-4F7F-A651-51583A139ADA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
