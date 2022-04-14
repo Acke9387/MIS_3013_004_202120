@@ -11,8 +11,8 @@ internal class Rectangle
     /// </summary>
     public Rectangle()
     {
-        Length = 7;
-        Width = 7;
+        Length = 0;
+        Width =  0;
     }
 
     /// <summary>
