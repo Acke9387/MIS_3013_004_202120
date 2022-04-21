@@ -25,6 +25,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Classes-Toy", "Classes-Toy\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Classes-ToyBox", "Classes-ToyBox\Classes-ToyBox.csproj", "{3B884BAE-B9D0-4979-A3F5-18417CA8054C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Classes-Cereal", "Classes-Cereal\Classes-Cereal.csproj", "{BEAABABD-F81B-4EF4-AA7A-F8C8AF555394}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -75,6 +77,10 @@ Global
 		{3B884BAE-B9D0-4979-A3F5-18417CA8054C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3B884BAE-B9D0-4979-A3F5-18417CA8054C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3B884BAE-B9D0-4979-A3F5-18417CA8054C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BEAABABD-F81B-4EF4-AA7A-F8C8AF555394}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BEAABABD-F81B-4EF4-AA7A-F8C8AF555394}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BEAABABD-F81B-4EF4-AA7A-F8C8AF555394}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BEAABABD-F81B-4EF4-AA7A-F8C8AF555394}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
