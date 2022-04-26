@@ -52,10 +52,16 @@ foreach (Cereal c in allCereals)
 
 Console.WriteLine("All cereals with a 100 calories or less per serving");
 
-foreach (Cereal c in allCereals)
+OutputCerealsWithCalorieConstraint(allCereals, 100);
+
+static void OutputCerealsWithCalorieConstraint(List<Cereal> allCereals, double calorieThreshold)
 {
-    if (c.Calories <= 100)
+    foreach (Cereal c in allCereals)
     {
-        Console.WriteLine($"\t" + c);
+        if (c.Calories <= calorieThreshold)
+        {
+            Console.WriteLine($"\t" + c);
+        }
     }
 }
+
